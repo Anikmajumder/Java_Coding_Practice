@@ -2,7 +2,8 @@ package Final;
 
 public class Main {
     public static void main(String[] args) {
-        University ob = new University();
+        Student ob = new Student();
         ob.display();
+        ob.display2();
     }
 }

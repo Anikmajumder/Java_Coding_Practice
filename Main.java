@@ -14,7 +14,7 @@ public class Main{
         }
       }
 
-      System.out.println("the special order is : ")
+      System.out.println("the special order is : ");
 
       int rowStart = 0;
       int rowEnd = n-1;
